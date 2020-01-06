@@ -1,0 +1,6 @@
+plugin:
+    name: 'cloudwales.bookings::lang.plugin.name'
+    description: 'cloudwales.bookings::lang.plugin.description'
+    author: cloudwales
+    icon: oc-icon-calendar
+    homepage: ''
